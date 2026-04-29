@@ -13,7 +13,6 @@
 - 🧪 **Mentalidad:** 100% orientado a pruebas (JUnit, Mockito) e inmerso en metodologías ágiles (Scrum).
 - 🌱 Actualmente profundizando en **Spring Boot, Arquitectura de Microservicios, AWS y Apache Kafka**.
 - 📫 ¿Quieres hablar de cómo puedo sumar valor a tu equipo? Contáctame en: **[mateooficial1996@gmail.com]** o a través de mi **[LinkedIn](https://www.linkedin.com/in/richard-mateo-obando-ladino-5b3214250/)**.
-- 
 
 ---
 
