@@ -11,9 +11,9 @@
 - 🏢 Actualmente colaborando como **Desarrollador Backend Java / Consultor Freelance**, ayudando a startups (Fintech, E-commerce, Logística) a modernizar arquitecturas legacy hacia soluciones seguras y escalables.
 - ⚙️ **Mi enfoque:** Migración de monolitos a arquitecturas de microservicios, integraciones de pasarelas de pago (Stripe, PayPal) y APIs de terceros, seguridad (OAuth2, JWT) y optimización de bases de datos.
 - 🧪 **Mentalidad:** 100% orientado a pruebas (JUnit, Mockito) e inmerso en metodologías ágiles (Scrum).
-- 🌱 Actualmente profundizando en **[AWS / Apache Kafka / Rellena aquí tu tecnología actual]**.
-- 📫 ¿Quieres hablar de cómo puedo sumar valor a tu equipo? Contáctame en: **[Tu dirección de Correo]** o a través de mi **[LinkedIn](https://www.linkedin.com/in/richard-mateo-obando-ladino-5b3214250/)**.
-- 📫 ¿Quieres hablar de cómo puedo sumar valor a tu equipo? Contáctame en: **[Tu dirección de Correo]** o a través de mi **[LinkedIn]()**.
+- 🌱 Actualmente profundizando en **Spring Boot, Arquitectura de Microservicios, AWS y Apache Kafka**.
+- 📫 ¿Quieres hablar de cómo puedo sumar valor a tu equipo? Contáctame en: **[mateooficial1996@gmail.com]** o a través de mi **[LinkedIn](https://www.linkedin.com/in/richard-mateo-obando-ladino-5b3214250/)**.
+- 
 
 ---
 
